@@ -526,6 +526,12 @@
           "name": "Capacidad de dar feedback",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento creativo",
+          "type": "practice"
+        }
       }
     ]
   },
