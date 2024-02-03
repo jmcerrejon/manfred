@@ -513,6 +513,14 @@
         },
         "finishDate": "2003-01-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
