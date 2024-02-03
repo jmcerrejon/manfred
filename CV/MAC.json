@@ -44,22 +44,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Freelance"
-        },
-        "roles": [
-          {
-            "name": "Layoff/position eliminated",
-            "startDate": "2024-01-01",
-            "challenges": [
-              {
-                "description": "Training/updating in the following technologies: Rust, Vite, Next.JS, Azure, SCRUM, Livewire.\nYou can hire me!"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "IMCS Group",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/7c57c570-6360-4f3b-81e5-e8ef056c5df8_linkedin-photo-53300.linkedin-photo-53300",
