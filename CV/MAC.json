@@ -28,6 +28,10 @@
       {
         "type": "github",
         "URL": "https://github.com/jmcerrejon"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ulysess10"
       }
     ]
   },
@@ -516,6 +520,10 @@
         {
           "URL": "https://github.com/jmcerrejon",
           "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/ulysess10",
+          "type": "twitter"
         }
       ],
       "contactMails": [
