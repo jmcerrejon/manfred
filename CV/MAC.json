@@ -582,6 +582,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Django",
+          "type": "technology"
+        }
+      ],
       "discardedCompetences": [
         {
           "name": "Java",
