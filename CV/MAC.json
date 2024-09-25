@@ -637,6 +637,10 @@
         {
           "name": "Django",
           "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
