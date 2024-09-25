@@ -734,15 +734,19 @@
         "type": "technology"
       },
       {
-        "name": "Jira",
-        "type": "technology"
-      },
-      {
         "name": "Laravel",
         "type": "technology"
       },
       {
-        "name": "MySQL",
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
         "type": "technology"
       }
     ],
