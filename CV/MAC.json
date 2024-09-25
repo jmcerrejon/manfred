@@ -384,7 +384,7 @@
           {
             "name": "Software Developer",
             "startDate": "2014-03-01",
-            "finishDate": "2024-04-30",
+            "finishDate": "2024-06-01",
             "challenges": [
               {
                 "description": "· Azure engineer.\n· Compiler & software beta tester for credit size boards like Raspberry Pi & ODROID.\n· Mobile apps with Appcelerator Titanium (iOS, Android).\n· TDD with PHPUnit and Pest.\n· CI with GitHub Actions.\n· Back End with Laravel from 4.2 to 10.\n· Node.JS & Vanilla Javascript.\n· Front End with Bootstrap/TailwindCSS.\n· CMS WordPress, Ghost.\n· Devop with experience on Linux/Windows/FreeBSD/macOS.\n· GIS with Leaflet, Mapguide, OpenLayers, GeoServer.\n· Informix 4GL."
