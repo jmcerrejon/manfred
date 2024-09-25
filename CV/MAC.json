@@ -397,7 +397,8 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Muneris"
+          "name": "Muneris",
+          "description": "Muneris is a **solution to make payments for donations or services to diﬀerent businesses**.\n\nComplete development of both a web panel to manage parishes in Spain, and a complete payment gateway system for card payments, bank account and Paypal using API REST.\n\nIntegration of the payment gateway using Stripe."
         },
         "type": "launch",
         "publishingDate": "2024-01-01",
@@ -405,6 +406,10 @@
           "payment gateway"
         ],
         "relatedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
           {
             "name": "Azure",
             "type": "technology"
