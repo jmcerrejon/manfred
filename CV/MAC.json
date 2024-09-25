@@ -635,10 +635,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Django",
-          "type": "technology"
-        },
-        {
           "name": "Laravel",
           "type": "technology"
         },
