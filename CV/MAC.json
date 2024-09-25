@@ -393,6 +393,68 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Muneris"
+        },
+        "type": "launch",
+        "publishingDate": "2024-01-01",
+        "tags": [
+          "payment gateway"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Jenkins",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          },
+          {
+            "name": "Selenium",
+            "type": "technology"
+          },
+          {
+            "name": "SonarQube",
+            "type": "technology"
+          },
+          {
+            "name": "Stripe",
+            "type": "technology"
+          },
+          {
+            "name": "Swagger",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
